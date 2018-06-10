@@ -8,5 +8,5 @@ public class UserServiceImpl implements UserService {
     @Override
     public void getUser(User user) {
         System.out.println("user:"+user);
-    }
+    }1
 }
